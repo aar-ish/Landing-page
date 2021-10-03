@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="834" height="1714.056" viewBox="0 0 834 1714.056">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.067" y1="1.092" x2="0.933" y2="-0.092" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff167d"/>
+      <stop offset="1" stop-color="#ff8e3a"/>
+    </linearGradient>
+  </defs>
+  <g id="Artboard_2" data-name="Artboard 2" transform="translate(850.41 -299.88)">
+    <g id="OBJECTS" transform="translate(-850.41 299.88)">
+      <g id="Group_1422" data-name="Group 1422">
+        <rect id="Rectangle_999" data-name="Rectangle 999" width="834" height="1714.056" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
